@@ -1,0 +1,17 @@
+{
+  "name": "bearybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "leanengine": "^0.4.0",
+    "lodash": "^4.5.1"
+  }
+}
